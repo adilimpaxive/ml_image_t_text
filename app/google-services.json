@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "761445842992",
+    "firebase_url": "https://ml-kit-text-recognition-556e9.firebaseio.com",
+    "project_id": "ml-kit-text-recognition-556e9",
+    "storage_bucket": "ml-kit-text-recognition-556e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761445842992:android:370f6b211f44e3ab272df5",
+        "android_client_info": {
+          "package_name": "com.jessicathornsby.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761445842992-p3eclpq1iknhbgkkfd45u718oisf8iul.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jessicathornsby.myapplication",
+            "certificate_hash": "0d98123f92644553880810086929ced66c3e35fa"
+          }
+        },
+        {
+          "client_id": "761445842992-ngse8qq2in5kgrn8he7j91go7eufmusa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGjdAZMC4hk2jUWGBEJ_6MDE0vx9Q5vnE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761445842992-ngse8qq2in5kgrn8he7j91go7eufmusa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
